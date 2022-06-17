@@ -1,5 +1,5 @@
 # BungeeJumpingSimulator
-Bungee Jumping risk sport simulator based on the physics of Free Damped Motion involved in this activity.
+Bungee Jumping risk sport simulator based on the physics of Free Damped Motion involved in this activity. Project created only for academic purposes.
 
 <img src="https://raw.githubusercontent.com/LeonardoVergara/BungeeJumpingSimulator/main/.github/images/simul.png" height="500">
 
@@ -26,3 +26,7 @@ You can clone this repsitory to get the source code
  - Leonardo Lizcano - [LeoLizc](https://github.com/LeoLizc)
  - Leonardo Vergara - [LeonardoVergara](https://github.com/LeonardoVergara)
  - Frank Montaño
+
+## Acknowledgements
+
+ - [freepik](https://freepik.com)
