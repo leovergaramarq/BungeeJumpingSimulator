@@ -24,7 +24,7 @@ You can clone this repsitory to get the source code
 ## Authors
 
  - Leonardo Lizcano - [LeoLizc](https://github.com/LeoLizc)
- - Leonardo Vergara - [LeonardoVergara](https://github.com/vergaraldvm)
+ - Leonardo Vergara - [vergaraldvm](https://github.com/vergaraldvm)
  - Frank Montaño - [BungeeMontano](https://github.com/BungeeMontano)
 
 ## Acknowledgements
