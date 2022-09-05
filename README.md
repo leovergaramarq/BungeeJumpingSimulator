@@ -14,7 +14,7 @@ Bungee Jumping risk sport simulator based on the physics of Free Damped Motion i
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/vergaraldvm/BungeeJumpingSimulator.git
+    git clone https://github.com/leovergaramarq/BungeeJumpingSimulator.git
 
 ## Usage
 
@@ -24,7 +24,7 @@ You can clone this repsitory to get the source code
 ## Authors
 
  - Leonardo Lizcano - [LeoLizc](https://github.com/LeoLizc)
- - Leonardo Vergara - [vergaraldvm](https://github.com/vergaraldvm)
+ - Leonardo Vergara - [leovergaramarq](https://github.com/leovergaramarq)
  - Frank Montaño - [BungeeMontano](https://github.com/BungeeMontano)
 
 ## Acknowledgements
